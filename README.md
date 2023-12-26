@@ -28,7 +28,7 @@ direction of Pacman.
 uses the A-Star search for the grid. It uses the heuristic Manhattan
 distance formula to calculate the total cost of the path from the current
 location to the target location by adding the heuristic cost to the fixed
-cost.
+cost. Doc is an image of my algorithm professor Dr. Wong.
 * Score: The game keeps track of the player's score as they eat pellets.
 * Sound effects: The game includes sound effects for eating pellets, colliding with
 ghosts and death of Pacman.
